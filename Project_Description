@@ -1,0 +1,11 @@
+Augmented reality (AR) is the integration of digital information with the user's environment in real time. Unlike virtual reality (VR), which creates a totally artificial environment, AR users experience a real-world environment with generated perceptual information overlaid on top of it.
+
+Our project involves building an application that makes use of augmented reality to visualize furniture before buying them.
+
+We use Unity engine and AR Foundation (which in turn enables the generalization of code to build for both iOS and Android using ARKit and ARCore).
+
+We also use C# in order to animate any of the Game Objects placed in the AR Screen.
+
+https://mywebar.com/qr/65883
+
+https://mywebar.com/qr/69106
